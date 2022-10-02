@@ -8,18 +8,22 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>55952576a1cb41107f449182c2d2a173</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>recipe-logo</sys_name>
         <sys_overrides/>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
         <sys_update_name>sys_ux_theme_asset_55952576a1cb41107f449182c2d2a173</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-02 22:36:44</sys_updated_on>
     </sys_ux_theme_asset>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ccd3cb</average_image_color>
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>RecipeDBLogo.png</file_name>
         <hash>aef198d9a0a5437abad1ca4ca05fe1d02a907da1dc44f4dd3d7e729183eef61e</hash>
         <image_height>112</image_height>
